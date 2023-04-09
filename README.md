@@ -1,3 +1,1 @@
-# Jogo-da-Velha
-
-https://relixdx.github.io/Jogo-da-Velha/
+<a href='https://relixdx.github.io/Jogo-da-Velha/'>Jogo da Velha</a>
